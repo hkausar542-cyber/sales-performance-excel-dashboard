@@ -25,9 +25,11 @@ Track sales performance and find which regions, products, categories and channel
 - `sales-dashboard 1.png`: dashboard screenshot
 
 ## Author
-Heena Kausar
-GitHub: hkausar542-cyber
+**Heena Kausar**
 
+- GitHub: [hkausar542-cyber](https://github.com/hkausar542-cyber)
+- LinkedIn: [Heena Kausar](https://www.linkedin.com/in/heena-kausar/)
+  
 ## Key Insights
 - Total sales of 7,906,515 with total cost of 6,146,820
 - Total profit of 1,759,695, a profit margin of 22.26%
