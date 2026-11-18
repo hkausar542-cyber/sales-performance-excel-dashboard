@@ -27,3 +27,9 @@ Track sales performance and find which regions, products, categories and channel
 ## Author
 Heena Kausar
 GitHub: hkausar542-cyber
+
+## Key Insights
+- Total sales of 7,906,515 with total cost of 6,146,820
+- Total profit of 1,759,695, a profit margin of 22.26%
+- Sales are analyzed by region, product, category and channel
+- Monthly trend shows how sales change across the year 
