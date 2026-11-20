@@ -28,7 +28,7 @@ Track sales performance and find which regions, products, categories and channel
 **Heena Kausar**
 
 - GitHub: [hkausar542-cyber](https://github.com/hkausar542-cyber)
-- LinkedIn: [Heena Kausar](https://www.linkedin.com/in/heena-kausar/)
+- LinkedIn: [Heena Kausar](https://www.linkedin.com/in/heena-kausar-256331301/)
   
 ## Key Insights
 - Total sales of 7,906,515 with total cost of 6,146,820
